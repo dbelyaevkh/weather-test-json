@@ -3,6 +3,6 @@
     "overallPollenIndex":1,
     "relativeHumidity" : 50,
     "grassPollenIndex" : 4,
-    "ragweedPollenIndex": 5,
+    "ragweedPollenIndex": 1,
     "treePollenIndex" : 1
 }
