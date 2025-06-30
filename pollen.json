@@ -2,7 +2,7 @@
     "airQualityIndex":4,
     "overallPollenIndex":1,
     "relativeHumidity" : 51,
-    "grassPollenIndex" : 1,
-    "ragweedPollenIndex": 1,
+    "grassPollenIndex" : 4,
+    "ragweedPollenIndex": 5,
     "treePollenIndex" : 1
 }
